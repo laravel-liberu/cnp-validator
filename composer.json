@@ -1,21 +1,21 @@
 {
-    "name": "laravel-enso/cnp-validator",
+    "name": "cgdsoftware/cnp-validator",
     "description": "Romanian CNP validator for Laravel",
     "keywords": [
         "laravel",
-        "laravel-enso",
+        "cgdsoftware",
         "cnp",
         "cnp-validator",
         "validator"
     ],
     "type": "library",
-    "homepage": "https://github.com/laravel-enso/CnpValidator",
+    "homepage": "https://github.com/cgdsoftware/CnpValidator",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],

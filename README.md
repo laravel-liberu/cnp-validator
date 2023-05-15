@@ -12,7 +12,7 @@ Romanian CNP validator for Laravel
 
 ### Instalation Steps
 
-1. Add `'LaravelEnso\CnpValidator\CnpValidatorServiceProvider::class'` to your providers list in config/app.php.
+1. Add `'LaravelLiberu\CnpValidator\CnpValidatorServiceProvider::class'` to your providers list in config/app.php.
 
 2. Use the CNP validator in your ValidateModelRequest validation class
 
@@ -36,7 +36,7 @@ Romanian CNP validator for Laravel
 
 Don't forget to add the translation for the validator error message in `resources/lang/**/validation.php` under the `cnp` key.
 
-The [Laravel Enso Core](https://github.com/laravel-enso/Core) package comes with this package included.
+The [Laravel Liberu Core](https://github.com/laravel-enso/Core) package comes with this package included.
 
 <!--h-->
 ### Contributions

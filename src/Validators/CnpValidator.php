@@ -6,7 +6,7 @@ class CnpValidator
 {
     private const HashTable = [2, 7, 9, 1, 4, 6, 3, 5, 8, 2, 7, 9];
 
-    public function __construct(private ?string $cnp = null)
+    public function __construct(private readonly ?string $cnp = null)
     {
     }
 

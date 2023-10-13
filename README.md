@@ -1,11 +1,11 @@
 <!--h-->
 # CNP Validator
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/91f5f8d26633432db35d9ceb70581513)](https://www.codacy.com/gh/laravel-enso/cnp-validator?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/cnp-validator&amp;utm_campaign=Badge_Grade) 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/91f5f8d26633432db35d9ceb70581513)](https://www.codacy.com/gh/laravel-liberu/cnp-validator?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-liberu/cnp-validator&amp;utm_campaign=Badge_Grade) 
 [![StyleCI](https://styleci.io/repos/85675542/shield?branch=master)](https://styleci.io/repos/85675542)
-[![License](https://poser.pugx.org/laravel-enso/actionlogger/license)](https://packagist.org/packages/laravel-enso/actionlogger)
-[![Total Downloads](https://poser.pugx.org/laravel-enso/cnp-validator/downloads)](https://packagist.org/packages/laravel-enso/cnp-validator)
-[![Latest Stable Version](https://poser.pugx.org/laravel-enso/cnp-validator/version)](https://packagist.org/packages/laravel-enso/cnp-validator)
+[![License](https://poser.pugx.org/laravel-liberu/actionlogger/license)](https://packagist.org/packages/laravel-liberu/actionlogger)
+[![Total Downloads](https://poser.pugx.org/laravel-liberu/cnp-validator/downloads)](https://packagist.org/packages/laravel-liberu/cnp-validator)
+[![Latest Stable Version](https://poser.pugx.org/laravel-liberu/cnp-validator/version)](https://packagist.org/packages/laravel-liberu/cnp-validator)
 <!--/h-->
 
 Romanian CNP validator for Laravel
@@ -36,7 +36,7 @@ Romanian CNP validator for Laravel
 
 Don't forget to add the translation for the validator error message in `resources/lang/**/validation.php` under the `cnp` key.
 
-The [Laravel Liberu Core](https://github.com/laravel-enso/Core) package comes with this package included.
+The [Laravel Liberu Core](https://github.com/laravel-liberu/Core) package comes with this package included.
 
 <!--h-->
 ### Contributions

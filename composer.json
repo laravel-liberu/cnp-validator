@@ -25,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\CnpValidator\\": "src/"
+            "LaravelLiberu\\CnpValidator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\CnpValidator\\AppServiceProvider"
+                "LaravelLiberu\\CnpValidator\\AppServiceProvider"
             ],
             "aliases": {}
         }
